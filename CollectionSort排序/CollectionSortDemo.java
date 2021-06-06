@@ -8,6 +8,7 @@ public class CollectionSortDemo {
         method01();
         method02();
         method03();
+
     }
 
     public static void method(){
